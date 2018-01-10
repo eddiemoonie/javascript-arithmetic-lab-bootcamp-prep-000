@@ -7,13 +7,11 @@ function multiply(a, b) {
 }
 
 function subtract(a, b) {
-  var number = a - b;
-  return number;
+  return a - b;
 }
 
 function divide(a, b) {
-  var number = a / b;
-  return number;
+  return a / b;
 }
 
 function inc(n) {
