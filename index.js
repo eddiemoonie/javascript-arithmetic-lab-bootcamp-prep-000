@@ -1,10 +1,9 @@
 function add(a, b) {
-  return a-b;
+  return a + b;
 }
 
 function multiply(a, b) {
-  var number = a * b;
-  return number;
+  return a * b;
 }
 
 function subtract(a, b) {
